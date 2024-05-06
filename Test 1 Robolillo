@@ -84,4 +84,4 @@ async def next(ctx):
     # Aquí podrías implementar la lógica para reproducir la siguiente canción en una lista de reproducción
     pass
 
-client.run('MTIzMzg5OTg3MTMwODg3Mzc3OA.GWviGg.YXBIdZG55TtMKui8R2pkFDPTfXFDHyXMClWEN4')
+client.run(TOKEN)
